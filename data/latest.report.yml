@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.3.0"
   latestRelease: "v2.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:49:18Z
+  collectedAt: 2026-09-09T20:16:23Z
 timeline:
   created: 2021-04-10
   lastCommit: 2026-06-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-10-23
   lastPrerelease: 
 popularity:
-  star: 2743
+  star: 2742
   watcher: 7
   fork: 50
   release: 6
@@ -85,7 +85,7 @@ total:
   commit: 303
 ---
 path: /home/runner/.x-repo/github.com/banga/git-split-diffs
-collectedAt: 2026-09-09T05:49:23Z
+collectedAt: 2026-09-09T20:16:28Z
 loc:
   Json:
     code: 7816
