@@ -208,4 +208,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 10 are checked with a SAST tool'
 ---
-{"id":256580313,"author":{"login":"banga","id":541603,"node_id":"MDQ6VXNlcjU0MTYwMw==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOFUJp6s4PSxrZ","tag_name":"v2.3.0","target_commitish":"main","name":"v2.3.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-10-23T07:03:49Z","updated_at":"2025-10-23T07:05:05Z","published_at":"2025-10-23T07:05:05Z","assets":[],"body":"## What's Changed\r\n* Bump esbuild from 0.17.19 to 0.25.0 by @dependabot[bot] in https://github.com/banga/git-split-diffs/pull/54\r\n* Try a tenative fix for #16 \r\n\r\n**Full Changelog**: https://github.com/banga/git-split-diffs/compare/v2.2.0...v2.3.0","mentions_count":1}
